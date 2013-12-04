@@ -9,19 +9,19 @@ The charicons are supported by all modern browsers that support HTML5.
 
 Older browsers, including IE6, support only the following charicons from the list:
 
-&larr;  
-&uarr;  
-&rarr;  
-&darr;  
-&minus;  
-&times;  
-&lt;  
-&gt;  
-&lsaquo;  
-&rsaquo;  
-&laquo;  
-&raquo;  
-&equiv;  
+&larr; &amp;larr;  
+&uarr; &amp;uarr;  
+&rarr; &amp;rarr;  
+&darr; &amp;darr;  
+&minus; &amp;minus;  
+&times; &amp;times;  
+&lt; &amp;lt;  
+&gt; &amp;gt;  
+&lsaquo; &amp;lsaquo;  
+&rsaquo; &amp;rsaquo;  
+&laquo; &amp;laquo;  
+&raquo; &amp;raquo;  
+&equiv; &amp;equiv;  
 
 
 ###Reference
